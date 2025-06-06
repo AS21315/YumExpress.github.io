@@ -26,17 +26,15 @@ The website aims to provide a seamless user experience across various devices an
 
 The project is organized with clear separation of concerns, making it easy to navigate and understand:
 
-.
-├── images/           # Contains all image assets used across the website.
-├── About.css         # Stylesheet specifically for the 'About Us' page.
-├── About.html        # HTML file for the 'About Us' page.
-├── Contact.css       # Stylesheet specifically for the 'Contact Us' page.
-├── Contact.html      # HTML file for the 'Contact Us' page.
-├── Home.css          # Stylesheet specifically for the 'Home' page.
-├── Home.html         # HTML file for the 'Home' page.
-├── index.html        # The main entry point of the website.
-└── jquery.js         # The jQuery library for JavaScript functionality.
-
+images/           # Contains all image assets used across the website.
+About.css         # Stylesheet specifically for the 'About Us' page.
+About.html        # HTML file for the 'About Us' page.
+Contact.css       # Stylesheet specifically for the 'Contact Us' page.
+Contact.html      # HTML file for the 'Contact Us' page.
+Home.css          # Stylesheet specifically for the 'Home' page.
+Home.html         # HTML file for the 'Home' page.
+index.html        # The main entry point of the website.
+jquery.js         # The jQuery library for JavaScript functionality.
 
 ## How to Run Locally
 
